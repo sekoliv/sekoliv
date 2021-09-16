@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sekoliv
 - 👀 I’m interested in DATA
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on DS projects
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
